@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Application Test</string>
     <string name="company_project">Company Project</string>
+    <string name="one_button">Button</string>
 </resources>
