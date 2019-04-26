@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Application Test</string>
-    <string name="company_project">Company Project</string>
-    <string name="one_button">Button</string>
-    <string name="two_button">Button</string>
+    <string name="company_project">0</string>
+    <string name="random_button">Random</string>
+    <string name="toast_button">Toast</string>
+    <string name="count_button">Count</string>
 </resources>
